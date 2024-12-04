@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Jeremy!
-I am a freshman computer science major
+I am a sophomore computer science major
 
 <!--
 **JeremyGerm/JeremyGerm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
